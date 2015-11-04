@@ -1,0 +1,21 @@
+{
+  "name": "@djforth/how-to-npm",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djforth/react-search.git"
+  }
+}
